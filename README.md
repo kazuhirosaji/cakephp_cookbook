@@ -13,6 +13,14 @@ Ubuntu environment will install
 
 And [cakephp 2.5.6] are placed in /var/www/
 
+# Usage
+- Clone this repository to your local pc.
+- Start terminal app.
+- Go to directory where you clone this repository.
+- Put command "chmod -R 777 ./app/tmp"
+- Put command "vagrant up"
+- Start browser and go to "http://192.168.33.10/cakephp_bbbs/"
+
 # Repository onfo
 This repository copy from
 https://github.com/kazuhirosaji/bbbs_cookbook.git at 2014/12/1 version.
