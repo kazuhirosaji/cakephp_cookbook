@@ -19,7 +19,7 @@ And [cakephp 2.5.6] are placed in /var/www/
 - Go to downloaded repository's directory.
 - Put command "chmod -R 777 ./app/tmp"
 - Put command "vagrant up"
-- Start browser and go to "http://192.168.33.10/cakephp_bbbs/"
+- Start browser and go to "http://192.168.33.10/cakephp_site/"
 
 # Repository onfo
 This repository copy from
