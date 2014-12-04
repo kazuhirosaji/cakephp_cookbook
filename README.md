@@ -22,9 +22,7 @@ And [cakephp 2.5.6] are placed in /var/www/
 - Start browser and go to "http://192.168.33.10/cakephp_site/"
 
 If you use file management by git. Please put this command to remove unmanaged files like "app/tmp".
-<pre>
 git rm --cached `git ls-files --full-name -i --exclude-from=.gitignore`
-</pre>
 
 # Repository onfo
 This repository copy from
